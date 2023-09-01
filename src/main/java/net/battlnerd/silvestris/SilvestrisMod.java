@@ -21,7 +21,6 @@ public class SilvestrisMod implements ModInitializer {
 		ModItems.registerModItems();
 		ModBlocks.registerModBlocks();
 		ModBlockEntities.registerModBlockEntities();
-		ModScreenHandlers.registerModScreenHandlers();
 		FuelRegistry.INSTANCE.add(ModItems.SHARDOW_SHARD, 2000);
 		FuelRegistry.INSTANCE.add(ModBlocks.SHALE, 400);
 	}

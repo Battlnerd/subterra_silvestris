@@ -9,6 +9,7 @@ import net.minecraft.item.ItemStack;
 import net.minecraft.screen.ArrayPropertyDelegate;
 import net.minecraft.screen.PropertyDelegate;
 import net.minecraft.screen.ScreenHandler;
+import net.minecraft.screen.ScreenHandlerType;
 import net.minecraft.screen.slot.Slot;
 
 public class AlloyFurnaceScreenHandler extends ScreenHandler {
@@ -16,7 +17,7 @@ public class AlloyFurnaceScreenHandler extends ScreenHandler {
     private final PropertyDelegate propertyDelegate;
 
     public AlloyFurnaceScreenHandler(int syncId, PlayerInventory playerInventory, AlloyFurnaceBlockEntity entity){
-        this(syncId, playerInventory, new SimpleInventory(3), new ArrayPropertyDelegate(4));
+        this(syncId, playerInventory, new SimpleInventory(4), new ArrayPropertyDelegate(4));
     }
     public AlloyFurnaceScreenHandler(int syncId, PlayerInventory playerInventory, Inventory inventory, PropertyDelegate delegate) {
         super(ModScreenHandlers.ALLOY_FURNACE_SCREEN_HANDLER, syncId);

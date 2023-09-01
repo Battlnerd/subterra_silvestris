@@ -4,11 +4,14 @@ import net.battlnerd.silvestris.block.ModBlocks;
 import net.battlnerd.silvestris.screen.AlloyFurnaceScreen;
 import net.battlnerd.silvestris.screen.ModScreenHandlers;
 import net.fabricmc.api.ClientModInitializer;
+import net.fabricmc.api.EnvType;
+import net.fabricmc.api.Environment;
 import net.fabricmc.fabric.api.blockrenderlayer.v1.BlockRenderLayerMap;
 import net.minecraft.client.gui.screen.ingame.HandledScreens;
 import net.minecraft.client.render.RenderLayer;
-
+@Environment(EnvType.CLIENT)
 public class SilvestrisModClient implements ClientModInitializer {
+
     @Override
     public void onInitializeClient() {
         BlockRenderLayerMap.INSTANCE.putBlock(ModBlocks.ERYTHITE_PILLAR, RenderLayer.getTranslucent());
