@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "silvestris:block/shale_top",
+    "side": "silvestris:block/shale"
+  }
+}

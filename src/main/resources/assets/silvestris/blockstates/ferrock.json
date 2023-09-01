@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "silvestris:block/ferrock",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/ferrock",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/ferrock",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/ferrock",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "silvestris:block/ferrock"
+      },
+      {
+        "model": "silvestris:block/ferrock"
+      },
+      {
+        "model": "silvestris:block/ferrock",
+        "y": 180
+      },
+      {
+        "model": "silvestris:block/ferrock",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "silvestris:block/ferrock",
+        "x": 90
+      },
+      {
+        "model": "silvestris:block/ferrock",
+        "x": 90
+      },
+      {
+        "model": "silvestris:block/ferrock",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "silvestris:block/ferrock",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

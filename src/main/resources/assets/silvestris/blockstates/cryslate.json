@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "silvestris:block/cryslate",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/cryslate",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/cryslate",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/cryslate",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "silvestris:block/cryslate"
+      },
+      {
+        "model": "silvestris:block/cryslate"
+      },
+      {
+        "model": "silvestris:block/cryslate",
+        "y": 180
+      },
+      {
+        "model": "silvestris:block/cryslate",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "silvestris:block/cryslate",
+        "x": 90
+      },
+      {
+        "model": "silvestris:block/cryslate",
+        "x": 90
+      },
+      {
+        "model": "silvestris:block/cryslate",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "silvestris:block/cryslate",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

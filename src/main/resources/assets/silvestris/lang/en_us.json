@@ -1,0 +1,25 @@
+{
+  "item.silvestris.plant_fibre": "Plant Fiber",
+  "item.silvestris.glass_fibre": "Glass Fiber",
+  "item.silvestris.sapphire": "Sapphire",
+  "item.silvestris.topaz": "Topaz",
+  "item.silvestris.ruby": "Ruby",
+  "item.silvestris.peat": "Peat",
+  "item.silvestris.shardow_shard": "Shardow Shard",
+  "item.silvestris.glowing_thread": "Glowing Thread",
+  "item.silvestris.luminous_silk": "Luminous Silk",
+  "item.silvestris.raw_rose_gold": "Raw Rose Gold",
+  "item.silvestris.rose_gold_ingot": "Rose Gold Ingot",
+  "item.silvestris.grapes": "Grapes",
+  "item.silvestris.rose_grapes": "Rose Grapes",
+  "item.silvestris.erythite_crystal": "Erythite Crystal",
+  "block.silvestris.ferrock": "Ferrock",
+  "block.silvestris.shale": "Shale",
+  "block.silvestris.erythite_pillar": "Erythite Pillar",
+  "block.silvestris.cryslate": "Cryslate",
+  "block.silvestris.cobbled_cryslate": "Cobbled Cryslate",
+  "block.silvestris.alloy_furnace": "Alloy Furnace",
+  "container.alloy_furnace": "Alloy Furnace",
+
+  "itemgroup.silvestris": "Subterra Silvestris"
+}

@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "silvestris:block/shale",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/shale",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/shale",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/shale",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "silvestris:block/shale"
+      },
+      {
+        "model": "silvestris:block/shale"
+      },
+      {
+        "model": "silvestris:block/shale",
+        "y": 180
+      },
+      {
+        "model": "silvestris:block/shale",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "silvestris:block/shale",
+        "x": 90
+      },
+      {
+        "model": "silvestris:block/shale",
+        "x": 90
+      },
+      {
+        "model": "silvestris:block/shale",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "silvestris:block/shale",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

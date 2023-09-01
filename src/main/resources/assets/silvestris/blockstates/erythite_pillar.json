@@ -1,0 +1,62 @@
+{
+  "variants": {
+    "axis=x": [
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "axis=y": [
+      {
+        "model": "silvestris:block/erythite_pillar"
+      },
+      {
+        "model": "silvestris:block/erythite_pillar"
+      },
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "y": 180
+      },
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "y": 180
+      }
+    ],
+    "axis=z": [
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "x": 90
+      },
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "x": 90
+      },
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "silvestris:block/erythite_pillar",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

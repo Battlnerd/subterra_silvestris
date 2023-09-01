@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "silvestris:block/cryslate_top",
+    "side": "silvestris:block/cryslate"
+  }
+}

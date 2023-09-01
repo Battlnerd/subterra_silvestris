@@ -1,0 +1,8 @@
+{
+	"parent": "silvestris:block/big_bush.json",
+	"textures": {
+		"0": "silvestris:block/grape_bush_ripe",
+		"1": "silvestris:block/grape_leaves_ripe",
+		"particle": "silvestris:block/grape_bush_ripe"
+	}
+}
